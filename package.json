@@ -9,7 +9,7 @@
   "author": "me",
   "license": "MIT",
   "dependencies": {
-    "axios": "^0.16.2",
+    "axios": "^0.21.1",
     "koa": "^2.3.0",
     "vue": "^2.3.4",
     "vue-template-compiler": "^2.3.4"
